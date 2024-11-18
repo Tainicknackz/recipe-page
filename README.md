@@ -23,8 +23,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Tainicknackz/recipe-page](https://github.com/Tainicknackz/recipe-page)
+- Live Site URL: [https://673b13dc858afc1b32f0c431--sensational-haupia-dd6613.netlify.app/](https://https://673b13dc858afc1b32f0c431--sensational-haupia-dd6613.netlify.app/)
 
 ## My process
 
@@ -60,7 +60,7 @@ Working on this project taught me how to effectively manipulate lists (<ul> and 
 </ul>
 ```
 
-````html
+```html
 <ol>
   <li>
     <strong>Beat the eggs:</strong>
@@ -106,7 +106,7 @@ Working on this project taught me how to effectively manipulate lists (<ul> and 
     <p>Serve hot, with additional salt and pepper if needed.</p>
   </li>
 </ol>
-``` 
+```
 
 ```html
 <table>
@@ -138,7 +138,7 @@ Working on this project taught me how to effectively manipulate lists (<ul> and 
   background-color: hsl(330, 100%, 98%);
   border-radius: 7px;
 }
-````
+```
 
 ```css
 .instructions ol {
@@ -170,7 +170,6 @@ table {
 - Additional Recipes: Support multiple recipes with navigation options and a search bar for easy access.
 
 - Animations & Transitions: Add subtle animations and transitions for a more engaging user experience.
-
 
 ## Author
 
